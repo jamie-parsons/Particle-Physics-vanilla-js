@@ -64,7 +64,8 @@ class Particle {
     //draw particle
   this.draw();
 }
-} 
+}
+
 //create particle array
   
 function init() {
@@ -113,7 +114,9 @@ function animate() {
   connect();
 }
 
-
-
 init();
 animate();
+
+//*general particle randomization
+//*customizable base for array particle
+//*
