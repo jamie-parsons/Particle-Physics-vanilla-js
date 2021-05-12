@@ -116,7 +116,3 @@ function animate() {
 
 init();
 animate();
-
-//*general particle randomization
-//*customizable base for array particle
-//*
