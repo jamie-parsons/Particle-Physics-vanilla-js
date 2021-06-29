@@ -1,7 +1,9 @@
 # Particle-Physics-vanilla-js-
 
 This is a particle effect using only vanilla JavaScript which translates plain text into a mapped particle array with visual effects. The effect is similar to the constellation JS library. 
-<p align="center">![test](https://media.giphy.com/media/mi5sYHiRlpJyc0OpP7/giphy.gif)
+<p align="center">![test](https://media.giphy.com/media/mi5sYHiRlpJyc0OpP7/giphy.mp4![Animated GIF-source](https://user-images.githubusercontent.com/28675620/123855904-ab67a300-d8dd-11eb-9aac-6dd50d4d003c.gif)
+)
+  
   
 </p>
 This iteration utlizes fear/attraction on mouseover, which can be modified to your preferences by simply switching +/- on lines 60 and 61 in .js.
