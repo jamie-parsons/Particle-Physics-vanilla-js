@@ -1,5 +1,5 @@
-#possible to put logic here 
-# 
+// #possible to put logic here 
+// # 
 const canvas = document.getElementById('canvas1');
 
 const ctx = canvas.getContext('2d'); /* canvas API? */
