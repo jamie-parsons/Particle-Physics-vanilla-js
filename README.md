@@ -2,7 +2,10 @@
 
 This is a particle effect using only vanilla JavaScript which translates plain text into a mapped particle array with visual effects. The effect is similar to the constellation JS library. 
 <p align="center">
-  <img src="https://im6.ezgif.com/tmp/ezgif-6-70f4eaeecfc4.gif">
+  <img src="https://media.giphy.com/media/mi5sYHiRlpJyc0OpP7/giphy.gif">
+
+  
+  
 </p>
 This iteration utlizes fear/attraction on mouseover, which can be modified to your preferences by simply switching +/- on lines 60 and 61 in .js.
 
